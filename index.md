@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# 04---Structure web pages with HTML
 
-You can use the [editor on GitHub](https://github.com/DenisRendon/04---Structure-web-pages-with-HTML/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Wireframing
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Practice used by designers which allows them to drawout and plan a layout that they have in their mind. It is easy to change and put your thoughts down on paper so you have a direstion that you want to go planneded out
+2. There are mutiple tools and programs to do wireframing
+3. Before you start wireframing you need to know who your audience is by way of research, detailing requirements, creating user personas, defining use cases and complementing with competitor research.
+4. Creat a cheat sheet with your user and business requirements, cases, personas and new ideas you came across
+5. *Remember: you’re outlining and representing features and formats, not illustrating in mighty fine detail.*
+6. How can you organise the content to support your users’ goals?
+Which information should be most prominent? Where should your main message go? What should the user see first when arriving at the page?
+What will the user expect to see on certain areas of the page?
+Which buttons or touch points does the user need to complete the desired actions?
 
-### Markdown
+Three key principles
+1. Clarity
+2. Confidence
+3. Simplicity is key
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### HTML Basics
 
-# Header 1
-## Header 2
-### Header 3
+1. The opening tag: This consists of the name of the element (in this case, p), wrapped in opening and closing angle brackets. This states where the element begins or starts to take effect — in this case where the paragraph begins.
+2. The closing tag: This is the same as the opening tag, except that it includes a forward slash before the element name. This states where the element ends — in this case where the paragraph ends. Failing to add a closing tag is one of the standard beginner errors and can lead to strange results.
+3.The content: This is the content of the element, which in this case, is just text.
+4. The element: The opening tag, the closing tag, and the content together comprise the element.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DenisRendon/04---Structure-web-pages-with-HTML/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
